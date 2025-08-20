@@ -58,34 +58,6 @@
 
 </div>
 
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-### 🔥 Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YourUsername&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-### 📈 Activity Graph
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YourUsername&bg_color=0d1117&color=f85d7f&line=ff6b9d&point=c73650&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical&hide_border=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=YourUsername&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-</div>
 
 ---
 
