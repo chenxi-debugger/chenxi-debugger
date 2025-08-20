@@ -74,16 +74,6 @@ const currentFocus = {
 
 ---
 
-## 🌟 Featured Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=project1&theme=radical&hide_border=true)](https://github.com/YourUsername/project1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=project2&theme=radical&hide_border=true)](https://github.com/YourUsername/project2)
-
-</div>
-
----
 
 ## 🤝 Connect with Me
 
