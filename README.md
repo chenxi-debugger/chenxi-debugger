@@ -15,7 +15,7 @@
 - 💕 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **JavaScript, Python, React, Node.js**
 - 📧 How to reach me: **chenxi.debugger@gmail.com**
-- 🦄 Fun fact: **I code with pink keyboards and love unicorn themes!**
+- 🦄 Fun fact: **I code with pink keyboards and love my puppies!**
 
 
 
