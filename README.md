@@ -17,24 +17,7 @@
 - 📧 How to reach me: **chenxi.debugger@gmail.com**
 - 🦄 Fun fact: **I code with pink keyboards and love unicorn themes!**
 
-# 💖 Hello, I'm [Your Name]
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=✨+Full+Stack+Developer+✨;💕+Open+Source+Enthusiast+💕;🌸+Always+Learning+New+Things+🌸;🦄+Welcome+to+my+Profile!+🦄)](https://git.io/typing-svg)
-
-</div>
-
-<img align="right" alt="Girl Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
-
-## 🌸 About Me
-
-- ✨ I'm currently working on **[Your Current Project]**
-- 🌱 I'm currently learning **[Technologies you're learning]**
-- 💕 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **JavaScript, Python, React, Node.js**
-- 📧 How to reach me: **[your.email@example.com]**
-- 🦄 Fun fact: **I code with pink keyboards and love unicorn themes!**
 
 ---
 
