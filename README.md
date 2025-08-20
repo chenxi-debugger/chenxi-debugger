@@ -10,8 +10,8 @@
 
 ## 🌸 About Me
 
-- ✨ I'm currently working on **[Your Current Project]**
-- 🌱 I'm currently learning **[Technologies you're learning]**
+- ✨ I'm currently working on **Chatbot-AI-APP**
+- 🌱 I'm currently learning **RAG & AI Agents**
 - 💕 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **JavaScript, Python, React, Node.js**
 - 📧 How to reach me: **chenxi.debugger@gmail.com**
@@ -19,43 +19,38 @@
 
 ---
 
-## 💄 Languages & Tools
-
+🛠️ Languages & Tools
 <div align="center">
-
-### 💎 Programming Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-FF69B4?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-E91E63?style=for-the-badge&logo=typescript&logoColor=white)
-
-### 🌸 Frontend Development
-![React](https://img.shields.io/badge/-React-FF69B4?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-FF1493?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E91E63?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-FF1493?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-FF69B4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### 💖 Backend Development
-![Node.js](https://img.shields.io/badge/-Node.js-FF69B4?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-E91E63?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-FF1493?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-FF69B4?style=for-the-badge&logo=flask&logoColor=white)
-
-### 🎀 Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-FF69B4?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-E91E63?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-FF1493?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🦄 Tools & Technologies
-![Git](https://img.shields.io/badge/-Git-FF69B4?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-E91E63?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-FF1493?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-E91E63?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+Programming Languages
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Frontend Development
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Backend Development
+Show Image
+Show Image
+Show Image
+Show Image
+Databases
+Show Image
+Show Image
+Show Image
+Show Image
+Tools & Technologies
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
 </div>
-
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">
