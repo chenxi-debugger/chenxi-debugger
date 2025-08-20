@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Chenxi Zhuang 🦄
 
-<!--
-**chenxi-debugger/chenxi-debugger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Maker of [your projects]
+- OSS enthusiast
+- Full-time coder
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**I love code** ![cat-typing](https://example.com/cat-typing.gif) **and unicorns** ![unicorn](https://example.com/unicorn.gif)
+
+Check out my latest app: [Your App](https://your-site.com) ![hot](https://example.com/hot.gif)
+
+![under-construction](https://example.com/under-construction.gif)
+
+<!-- 添加徽章、统计 -->
+![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)
+![GitHub stars](https://img.shields.io/github/stars/yourusername?style=social)
