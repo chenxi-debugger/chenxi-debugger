@@ -68,7 +68,7 @@ const currentFocus = {
     learning: ["Machine Learning 🤖", "Cloud Architecture ☁️", "UI/UX Design 🎨"],
     building: ["Full Stack Web Apps 💻", "Mobile Applications 📱", "Beautiful User Interfaces ✨"],
     reading: ["Clean Architecture 📖", "System Design 🏗️", "Tech Leadership 👩‍💻"],
-    goals2024: ["Contribute to Open Source 🌟", "Learn New Technologies 🚀", "Build Amazing Projects ⭐"]
+    goals2025: ["Contribute to Open Source 🌟", "Learn New Technologies 🚀", "Build Amazing Projects ⭐"]
 };
 ```
 
