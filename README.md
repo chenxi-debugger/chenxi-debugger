@@ -99,15 +99,6 @@ const currentFocus = {
 
 ---
 
-## 📈 Visitor Count
-
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&color=blueviolet&style=for-the-badge)
-
-</div>
-
----
 
 <div align="center">
   
