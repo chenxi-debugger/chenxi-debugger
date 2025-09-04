@@ -10,7 +10,7 @@
 
 ## 🌸 About Me
 
-- ✨ I'm currently working on **Chatbot-AI-APP**
+- ✨ I'm currently working on **Building AI-Powered Apps**
 - 🌱 I'm currently learning **RAG & AI Agents**
 - 💕 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **JavaScript, Python, React, Node.js**
